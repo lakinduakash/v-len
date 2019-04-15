@@ -1,5 +1,5 @@
 # v-len
-Small cmd utility for find total length of video list in a folder or list of folders
+Small cmd utility for finding total length of video list in a folder or list of folders
 
 usage: dlen [option]
         
